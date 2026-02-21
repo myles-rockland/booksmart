@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{A67D766E-D28E-47E6-BFA7-1720D8C07B15}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Booksmart", "Booksmart\Booksmart.vcxproj", "{FB1145D6-2F3C-4F08-9278-5B15156E9D3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1145D6-2F3C-4F08-9278-5B15156E9D3D}.Debug|x64.ActiveCfg = Debug|x64
+		{FB1145D6-2F3C-4F08-9278-5B15156E9D3D}.Debug|x64.Build.0 = Debug|x64
+		{FB1145D6-2F3C-4F08-9278-5B15156E9D3D}.Release|x64.ActiveCfg = Release|x64
+		{FB1145D6-2F3C-4F08-9278-5B15156E9D3D}.Release|x64.Build.0 = Release|x64
+		{A67D766E-D28E-47E6-BFA7-1720D8C07B15}.Debug|x64.ActiveCfg = Debug|x64
+		{A67D766E-D28E-47E6-BFA7-1720D8C07B15}.Debug|x64.Build.0 = Debug|x64
+		{A67D766E-D28E-47E6-BFA7-1720D8C07B15}.Release|x64.ActiveCfg = Release|x64
+		{A67D766E-D28E-47E6-BFA7-1720D8C07B15}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA6392C-1F26-4402-B8B5-C123963E5813}
+	EndGlobalSection
+EndGlobal
